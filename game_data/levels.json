@@ -21,7 +21,7 @@
             "loss": "Eirika dies"
         },
         "roam": false,
-        "roam_unit": "Eirika",
+        "roam_unit": "Balogar",
         "go_to_overworld": false,
         "should_record": true,
         "tags": [],

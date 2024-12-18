@@ -1126,6 +1126,10 @@
         ],
         "components": [
             [
+                "class_skill",
+                null
+            ],
+            [
                 "hit",
                 1000
             ]
@@ -1141,6 +1145,10 @@
             11
         ],
         "components": [
+            [
+                "class_skill",
+                null
+            ],
             [
                 "proc_rate",
                 "MAG_PROCX"
@@ -1161,6 +1169,10 @@
             11
         ],
         "components": [
+            [
+                "class_skill",
+                null
+            ],
             [
                 "stat_change",
                 [

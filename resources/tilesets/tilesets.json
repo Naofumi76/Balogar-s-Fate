@@ -107,5 +107,10 @@
         "nid": "MagvelWorldMap",
         "terrain_grid": {},
         "autotiles": {}
+    },
+    {
+        "nid": "ch1 Andaron",
+        "terrain_grid": {},
+        "autotiles": {}
     }
 ]
