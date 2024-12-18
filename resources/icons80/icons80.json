@@ -162,5 +162,22 @@
     {
         "nid": "Generic_Portrait_Wyvern_Rider",
         "subicon_dict": {}
+    },
+    {
+        "nid": "Portrait Editor Andaron_Saga latest.gba_200@C8 Bow Knight_F867D4",
+        "subicon_dict": {
+            "Bow Knight": [
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "nid": "Arch Knight",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Duke Knight",
+        "subicon_dict": {}
     }
 ]

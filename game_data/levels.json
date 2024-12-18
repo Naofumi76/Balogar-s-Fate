@@ -27,7 +27,7 @@
         "tags": [],
         "units": [
             {
-                "nid": "Eirika",
+                "nid": "Balogar",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -40,7 +40,7 @@
                 "generic": false
             },
             {
-                "nid": "Seth",
+                "nid": "Sealticge",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -164,7 +164,7 @@
         "tags": [],
         "units": [
             {
-                "nid": "Eirika",
+                "nid": "Balogar",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -177,7 +177,7 @@
                 "generic": false
             },
             {
-                "nid": "Seth",
+                "nid": "Sealticge",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -190,7 +190,7 @@
                 "generic": false
             },
             {
-                "nid": "Gilliam",
+                "nid": "Draefendi",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -203,7 +203,7 @@
                 "generic": false
             },
             {
-                "nid": "Franz",
+                "nid": "Dohter",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -589,8 +589,8 @@
             {
                 "nid": "Rein",
                 "units": [
-                    "Gilliam",
-                    "Franz"
+                    "Draefendi",
+                    "Dohter"
                 ],
                 "positions": {}
             },
@@ -619,8 +619,8 @@
             {
                 "nid": "EirikaSeth",
                 "units": [
-                    "Eirika",
-                    "Seth"
+                    "Balogar",
+                    "Sealticge"
                 ],
                 "positions": {}
             }
@@ -655,7 +655,7 @@
         "tags": [],
         "units": [
             {
-                "nid": "Eirika",
+                "nid": "Balogar",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -668,7 +668,7 @@
                 "generic": false
             },
             {
-                "nid": "Seth",
+                "nid": "Sealticge",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -681,7 +681,7 @@
                 "generic": false
             },
             {
-                "nid": "Franz",
+                "nid": "Dohter",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -694,7 +694,7 @@
                 "generic": false
             },
             {
-                "nid": "Gilliam",
+                "nid": "Draefendi",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -707,7 +707,7 @@
                 "generic": false
             },
             {
-                "nid": "Vanessa",
+                "nid": "Edaldir",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -720,7 +720,7 @@
                 "generic": false
             },
             {
-                "nid": "Moulder",
+                "nid": "Steorra",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -733,7 +733,7 @@
                 "generic": false
             },
             {
-                "nid": "Ross",
+                "nid": "Winnehild",
                 "team": "other",
                 "ai": "Guard",
                 "roam_ai": null,
@@ -746,7 +746,7 @@
                 "generic": false
             },
             {
-                "nid": "Garcia",
+                "nid": "Dreisang",
                 "team": "other",
                 "ai": "Defend",
                 "roam_ai": null,
@@ -1113,19 +1113,19 @@
             {
                 "nid": "RossGarcia",
                 "units": [
-                    "Ross",
-                    "Garcia"
+                    "Winnehild",
+                    "Dreisang"
                 ],
                 "positions": {}
             },
             {
                 "nid": "BlueTeam",
                 "units": [
-                    "Eirika",
-                    "Seth",
-                    "Franz",
-                    "Gilliam",
-                    "Moulder"
+                    "Balogar",
+                    "Sealticge",
+                    "Dohter",
+                    "Draefendi",
+                    "Steorra"
                 ],
                 "positions": {}
             }
@@ -1160,7 +1160,7 @@
         "tags": [],
         "units": [
             {
-                "nid": "Eirika",
+                "nid": "Balogar",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -1173,7 +1173,7 @@
                 "generic": false
             },
             {
-                "nid": "Seth",
+                "nid": "Sealticge",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -1186,7 +1186,7 @@
                 "generic": false
             },
             {
-                "nid": "Franz",
+                "nid": "Dohter",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -1199,7 +1199,7 @@
                 "generic": false
             },
             {
-                "nid": "Gilliam",
+                "nid": "Draefendi",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -1212,7 +1212,7 @@
                 "generic": false
             },
             {
-                "nid": "Vanessa",
+                "nid": "Edaldir",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -1225,7 +1225,7 @@
                 "generic": false
             },
             {
-                "nid": "Moulder",
+                "nid": "Steorra",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -1238,7 +1238,7 @@
                 "generic": false
             },
             {
-                "nid": "Ross",
+                "nid": "Winnehild",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -1251,7 +1251,7 @@
                 "generic": false
             },
             {
-                "nid": "Garcia",
+                "nid": "Dreisang",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -1264,7 +1264,7 @@
                 "generic": false
             },
             {
-                "nid": "Neimi",
+                "nid": "Narga",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -1747,15 +1747,15 @@
             {
                 "nid": "PlayerTeam",
                 "units": [
-                    "Eirika",
-                    "Seth",
-                    "Franz",
-                    "Gilliam",
-                    "Vanessa",
-                    "Moulder",
-                    "Ross",
-                    "Neimi",
-                    "Garcia"
+                    "Balogar",
+                    "Sealticge",
+                    "Dohter",
+                    "Draefendi",
+                    "Edaldir",
+                    "Steorra",
+                    "Winnehild",
+                    "Narga",
+                    "Dreisang"
                 ],
                 "positions": {}
             }
@@ -1790,7 +1790,7 @@
         "tags": [],
         "units": [
             {
-                "nid": "Eirika",
+                "nid": "Balogar",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -1826,7 +1826,7 @@
                 "generic": false
             },
             {
-                "nid": "Seth",
+                "nid": "Sealticge",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -1839,7 +1839,7 @@
                 "generic": false
             },
             {
-                "nid": "Gilliam",
+                "nid": "Draefendi",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -1852,7 +1852,7 @@
                 "generic": false
             },
             {
-                "nid": "Vanessa",
+                "nid": "Edaldir",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -1865,7 +1865,7 @@
                 "generic": false
             },
             {
-                "nid": "Moulder",
+                "nid": "Steorra",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -1878,7 +1878,7 @@
                 "generic": false
             },
             {
-                "nid": "Ross",
+                "nid": "Winnehild",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -1904,7 +1904,7 @@
                 "generic": false
             },
             {
-                "nid": "Neimi",
+                "nid": "Narga",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -2735,14 +2735,14 @@
             {
                 "nid": "PlayerTeam",
                 "units": [
-                    "Eirika",
-                    "Seth",
-                    "Gilliam",
-                    "Vanessa",
-                    "Moulder",
-                    "Ross",
+                    "Balogar",
+                    "Sealticge",
+                    "Draefendi",
+                    "Edaldir",
+                    "Steorra",
+                    "Winnehild",
                     "Colm",
-                    "Neimi"
+                    "Narga"
                 ],
                 "positions": {}
             },
@@ -2808,7 +2808,7 @@
         "tags": [],
         "units": [
             {
-                "nid": "Eirika",
+                "nid": "Balogar",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -3774,7 +3774,7 @@
                 "generic": false
             },
             {
-                "nid": "Eirika",
+                "nid": "Balogar",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -3819,7 +3819,7 @@
                 "generic": true
             },
             {
-                "nid": "Seth",
+                "nid": "Sealticge",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -3832,7 +3832,7 @@
                 "generic": false
             },
             {
-                "nid": "Moulder",
+                "nid": "Steorra",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,
@@ -3845,7 +3845,7 @@
                 "generic": false
             },
             {
-                "nid": "Vanessa",
+                "nid": "Edaldir",
                 "team": "player",
                 "ai": "None",
                 "roam_ai": null,

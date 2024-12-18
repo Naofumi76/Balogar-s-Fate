@@ -1,11 +1,11 @@
 [
     {
-        "nid": "Eirika",
-        "name": "Eirika",
+        "nid": "Balogar",
+        "name": "Balogar",
         "desc": "The princess of the Kingdom of\nRenais. She's elegant and kind.",
         "variant": null,
         "level": 1,
-        "klass": "Eirika_Lord",
+        "klass": "Mage_Knight_1",
         "tags": [
             "Lord"
         ],
@@ -56,6 +56,14 @@
             [
                 "Rapier",
                 false
+            ],
+            [
+                "Iron_Bow",
+                false
+            ],
+            [
+                "Fire",
+                false
             ]
         ],
         "learned_skills": [],
@@ -78,7 +86,7 @@
             ],
             "Bow": [
                 false,
-                0,
+                251,
                 251
             ],
             "Staff": [
@@ -93,7 +101,7 @@
             ],
             "Anima": [
                 false,
-                0,
+                181,
                 251
             ],
             "Dark": [
@@ -108,15 +116,15 @@
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "Eirika",
+        "portrait_nid": "! Nathan ! Naofumi (contour reco)",
         "affinity": "Light",
         "fields": []
     },
     {
-        "nid": "Seth",
-        "name": "Seth",
+        "nid": "Sealticge",
+        "name": "Sealticge",
         "desc": "A young commander of Renais.\nHe's calm, composed, and skilled.",
-        "variant": null,
+        "variant": "",
         "level": 1,
         "klass": "Paladin",
         "tags": [],
@@ -223,13 +231,13 @@
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "Seth",
+        "portrait_nid": "Sealticge",
         "affinity": "Anima",
         "fields": []
     },
     {
-        "nid": "Franz",
-        "name": "Franz",
+        "nid": "Dohter",
+        "name": "Dohter",
         "desc": "An earnest and compassionate cavalier from Renais.",
         "variant": null,
         "level": 1,
@@ -342,13 +350,13 @@
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "Franz",
+        "portrait_nid": "Dohter",
         "affinity": "Light",
         "fields": []
     },
     {
-        "nid": "Gilliam",
-        "name": "Gilliam",
+        "nid": "Draefendi",
+        "name": "Draefendi",
         "desc": "An armoured knight from Frelia. He's quiet yet dependable.",
         "variant": null,
         "level": 4,
@@ -449,13 +457,13 @@
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "Gilliam",
+        "portrait_nid": "Draefendi",
         "affinity": "Thunder",
         "fields": []
     },
     {
-        "nid": "Vanessa",
-        "name": "Vanessa",
+        "nid": "Edaldir",
+        "name": "Edaldir",
         "desc": "A sincere, honest, and honourable pegasus knight of Frelia.",
         "variant": "",
         "level": 1,
@@ -564,13 +572,13 @@
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "Vanessa",
+        "portrait_nid": "Edaldir",
         "affinity": "Anima",
         "fields": []
     },
     {
-        "nid": "Moulder",
-        "name": "Moulder",
+        "nid": "Steorra",
+        "name": "Steorra",
         "desc": "A mature priest of Frelia. He's gentle and reassuring.",
         "variant": null,
         "level": 3,
@@ -675,13 +683,13 @@
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "Moulder",
+        "portrait_nid": "Steorra",
         "affinity": "Anima",
         "fields": []
     },
     {
-        "nid": "Ross",
-        "name": "Ross",
+        "nid": "Winnehild",
+        "name": "Winnehild",
         "desc": "A young villager. He longs to be a warrior, like his father.",
         "variant": null,
         "level": 1,
@@ -786,13 +794,13 @@
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "Ross",
+        "portrait_nid": "Winnehild",
         "affinity": "Fire",
         "fields": []
     },
     {
-        "nid": "Garcia",
-        "name": "Garcia",
+        "nid": "Dreisang",
+        "name": "Dreisang",
         "desc": "A villager from Renais. He was once a feared military leader.",
         "variant": "",
         "level": 4,
@@ -901,13 +909,13 @@
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "Garcia",
+        "portrait_nid": "Dreisang",
         "affinity": "Fire",
         "fields": []
     },
     {
-        "nid": "Neimi",
-        "name": "Neimi",
+        "nid": "Narga",
+        "name": "Narga",
         "desc": "A childhood friend of Colm who hails from Renais. She cries a lot.",
         "variant": "Female",
         "level": 1,
@@ -1012,7 +1020,7 @@
             ]
         },
         "alternate_classes": [],
-        "portrait_nid": "Neimi",
+        "portrait_nid": "Narga",
         "affinity": "Fire",
         "fields": []
     },

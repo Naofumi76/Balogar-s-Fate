@@ -263,8 +263,8 @@
             0,
             0
         ],
-        "map_sprite_nid": "Arch Knight",
-        "combat_anim_nid": "NewAnimComb",
+        "map_sprite_nid": "EirikaLord",
+        "combat_anim_nid": "Eirika Lord",
         "fields": []
     },
     {
@@ -7544,6 +7544,711 @@
         ],
         "map_sprite_nid": "Manakete",
         "combat_anim_nid": "Manakete",
+        "fields": []
+    },
+    {
+        "nid": "Mage_Knight_1",
+        "name": "Chevalier Mage",
+        "desc": "Chevalier capable de manier la magie et les armes.",
+        "tier": 2,
+        "movement_group": "Light Cav",
+        "promotes_from": "Mage",
+        "turns_into": [],
+        "tags": [
+            "Mounted"
+        ],
+        "max_level": 20,
+        "bases": {
+            "HP": 20,
+            "STR": 0,
+            "MAG": 4,
+            "SKL": 5,
+            "SPD": 6,
+            "LCK": 0,
+            "DEF": 5,
+            "RES": 6,
+            "CON": 8,
+            "MOV": 7,
+            "PROCX": 0
+        },
+        "growths": {
+            "HP": 45,
+            "STR": 5,
+            "MAG": 45,
+            "SKL": 30,
+            "SPD": 25,
+            "LCK": 15,
+            "DEF": 10,
+            "RES": 40,
+            "CON": 0,
+            "MOV": 0,
+            "PROCX": 0
+        },
+        "growth_bonus": {
+            "HP": 0,
+            "STR": 0,
+            "MAG": 0,
+            "SKL": 0,
+            "SPD": 0,
+            "LCK": 0,
+            "DEF": 0,
+            "RES": 0,
+            "CON": 0,
+            "MOV": 0,
+            "PROCX": 0
+        },
+        "promotion": {
+            "HP": 4,
+            "STR": 0,
+            "MAG": 2,
+            "SKL": 1,
+            "SPD": 0,
+            "LCK": 0,
+            "DEF": 2,
+            "RES": 2,
+            "CON": 3,
+            "MOV": -99,
+            "PROCX": 0
+        },
+        "max_stats": {
+            "HP": 60,
+            "STR": 20,
+            "MAG": 25,
+            "SKL": 26,
+            "SPD": 25,
+            "LCK": 30,
+            "DEF": 24,
+            "RES": 28,
+            "CON": 25,
+            "MOV": 15,
+            "PROCX": 30
+        },
+        "learned_skills": [
+            [
+                1,
+                "Canto"
+            ]
+        ],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0,
+                251
+            ],
+            "Lance": [
+                false,
+                0,
+                251
+            ],
+            "Axe": [
+                false,
+                0,
+                251
+            ],
+            "Bow": [
+                0,
+                0,
+                251
+            ],
+            "Staff": [
+                2,
+                31,
+                251
+            ],
+            "Light": [
+                false,
+                0,
+                251
+            ],
+            "Anima": [
+                2,
+                71,
+                251
+            ],
+            "Dark": [
+                false,
+                0,
+                251
+            ],
+            "Default": [
+                false,
+                0,
+                251
+            ]
+        },
+        "icon_nid": "Generic_Portrait_Mage_Knight",
+        "icon_index": [
+            0,
+            0
+        ],
+        "map_sprite_nid": "Chevalier Mage",
+        "combat_anim_nid": "Strategist",
+        "fields": []
+    },
+    {
+        "nid": "Cavalier_Arch",
+        "name": "Cavalier Archer",
+        "desc": "Devotees of the bow. Possess incredible range.",
+        "tier": 2,
+        "movement_group": "Light Cav",
+        "promotes_from": "Archer",
+        "turns_into": [],
+        "tags": [
+            "Horse",
+            "Mounted"
+        ],
+        "max_level": 20,
+        "bases": {
+            "HP": 21,
+            "STR": 7,
+            "MAG": 0,
+            "SKL": 6,
+            "SPD": 7,
+            "LCK": 0,
+            "DEF": 6,
+            "RES": 4,
+            "CON": 9,
+            "MOV": 7,
+            "PROCX": 0
+        },
+        "growths": {
+            "HP": 60,
+            "STR": 25,
+            "MAG": 0,
+            "SKL": 30,
+            "SPD": 35,
+            "LCK": 25,
+            "DEF": 15,
+            "RES": 20,
+            "CON": 0,
+            "MOV": 0,
+            "PROCX": 0
+        },
+        "growth_bonus": {
+            "HP": 0,
+            "STR": 0,
+            "MAG": 0,
+            "SKL": 0,
+            "SPD": 0,
+            "LCK": 0,
+            "DEF": 0,
+            "RES": 0,
+            "CON": 0,
+            "MOV": 0,
+            "PROCX": 0
+        },
+        "promotion": {
+            "HP": 3,
+            "STR": 2,
+            "MAG": 0,
+            "SKL": 2,
+            "SPD": 1,
+            "LCK": 0,
+            "DEF": 3,
+            "RES": 3,
+            "CON": 3,
+            "MOV": -99,
+            "PROCX": 0
+        },
+        "max_stats": {
+            "HP": 60,
+            "STR": 25,
+            "MAG": 20,
+            "SKL": 28,
+            "SPD": 30,
+            "LCK": 30,
+            "DEF": 24,
+            "RES": 25,
+            "CON": 25,
+            "MOV": 15,
+            "PROCX": 30
+        },
+        "learned_skills": [
+            [
+                1,
+                "Canto"
+            ]
+        ],
+        "wexp_gain": {
+            "Sword": [
+                true,
+                31,
+                251
+            ],
+            "Lance": [
+                false,
+                0,
+                251
+            ],
+            "Axe": [
+                false,
+                0,
+                251
+            ],
+            "Bow": [
+                true,
+                1,
+                251
+            ],
+            "Staff": [
+                false,
+                0,
+                251
+            ],
+            "Light": [
+                false,
+                0,
+                251
+            ],
+            "Anima": [
+                false,
+                0,
+                251
+            ],
+            "Dark": [
+                false,
+                0,
+                251
+            ],
+            "Default": [
+                false,
+                0,
+                251
+            ]
+        },
+        "icon_nid": "Generic_Portrait_Ranger",
+        "icon_index": [
+            0,
+            0
+        ],
+        "map_sprite_nid": "Cavalier Archer",
+        "combat_anim_nid": "Cavalier Archer",
+        "fields": []
+    },
+    {
+        "nid": "ArchKnight",
+        "name": "Arch Knight",
+        "desc": "Devotees of the bow. Possess incredible range.",
+        "tier": 2,
+        "movement_group": "Light Cav",
+        "promotes_from": "Archer",
+        "turns_into": [],
+        "tags": [
+            "Horse",
+            "Mounted"
+        ],
+        "max_level": 20,
+        "bases": {
+            "HP": 21,
+            "STR": 7,
+            "MAG": 0,
+            "SKL": 6,
+            "SPD": 7,
+            "LCK": 0,
+            "DEF": 6,
+            "RES": 4,
+            "CON": 9,
+            "MOV": 7,
+            "PROCX": 0
+        },
+        "growths": {
+            "HP": 60,
+            "STR": 25,
+            "MAG": 0,
+            "SKL": 30,
+            "SPD": 35,
+            "LCK": 25,
+            "DEF": 15,
+            "RES": 20,
+            "CON": 0,
+            "MOV": 0,
+            "PROCX": 0
+        },
+        "growth_bonus": {
+            "HP": 0,
+            "STR": 0,
+            "MAG": 0,
+            "SKL": 0,
+            "SPD": 0,
+            "LCK": 0,
+            "DEF": 0,
+            "RES": 0,
+            "CON": 0,
+            "MOV": 0,
+            "PROCX": 0
+        },
+        "promotion": {
+            "HP": 3,
+            "STR": 2,
+            "MAG": 0,
+            "SKL": 2,
+            "SPD": 1,
+            "LCK": 0,
+            "DEF": 3,
+            "RES": 3,
+            "CON": 3,
+            "MOV": -99,
+            "PROCX": 0
+        },
+        "max_stats": {
+            "HP": 60,
+            "STR": 25,
+            "MAG": 20,
+            "SKL": 28,
+            "SPD": 30,
+            "LCK": 30,
+            "DEF": 24,
+            "RES": 25,
+            "CON": 25,
+            "MOV": 15,
+            "PROCX": 30
+        },
+        "learned_skills": [
+            [
+                1,
+                "Canto"
+            ]
+        ],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                31,
+                251
+            ],
+            "Lance": [
+                false,
+                0,
+                251
+            ],
+            "Axe": [
+                false,
+                0,
+                251
+            ],
+            "Bow": [
+                true,
+                1,
+                251
+            ],
+            "Staff": [
+                false,
+                0,
+                251
+            ],
+            "Light": [
+                false,
+                0,
+                251
+            ],
+            "Anima": [
+                false,
+                0,
+                251
+            ],
+            "Dark": [
+                false,
+                0,
+                251
+            ],
+            "Default": [
+                false,
+                0,
+                251
+            ]
+        },
+        "icon_nid": "Arch Knight",
+        "icon_index": [
+            0,
+            0
+        ],
+        "map_sprite_nid": "Arch Knight",
+        "combat_anim_nid": "Arch Knight",
+        "fields": []
+    },
+    {
+        "nid": "CavalierLance",
+        "name": "Cavalier Lance",
+        "desc": "Mounted knights with superior movement.",
+        "tier": 1,
+        "movement_group": "Heavy Cav",
+        "promotes_from": null,
+        "turns_into": [
+            "Paladin",
+            "Great_Knight"
+        ],
+        "tags": [
+            "Horse",
+            "Mounted"
+        ],
+        "max_level": 20,
+        "bases": {
+            "HP": 20,
+            "STR": 5,
+            "MAG": 2,
+            "SKL": 3,
+            "SPD": 5,
+            "LCK": 0,
+            "DEF": 6,
+            "CON": 9,
+            "MOV": 7,
+            "RES": 0,
+            "PROCX": 0
+        },
+        "growths": {
+            "HP": 75,
+            "STR": 35,
+            "MAG": 17,
+            "SKL": 40,
+            "SPD": 28,
+            "LCK": 30,
+            "DEF": 15,
+            "CON": 0,
+            "MOV": 0,
+            "RES": 15,
+            "PROCX": 0
+        },
+        "growth_bonus": {
+            "HP": 0,
+            "STR": 0,
+            "MAG": 0,
+            "SKL": 0,
+            "SPD": 0,
+            "LCK": 0,
+            "DEF": 0,
+            "CON": 0,
+            "MOV": 0,
+            "RES": 0,
+            "PROCX": 0
+        },
+        "promotion": {
+            "HP": 0,
+            "STR": 0,
+            "MAG": 0,
+            "SKL": 0,
+            "SPD": 0,
+            "LCK": 0,
+            "DEF": 0,
+            "CON": 0,
+            "MOV": 0,
+            "RES": 0,
+            "PROCX": 0
+        },
+        "max_stats": {
+            "HP": 60,
+            "STR": 20,
+            "MAG": 20,
+            "SKL": 20,
+            "SPD": 20,
+            "LCK": 30,
+            "DEF": 20,
+            "CON": 25,
+            "MOV": 15,
+            "RES": 20,
+            "PROCX": 30
+        },
+        "learned_skills": [
+            [
+                1,
+                "Canto"
+            ]
+        ],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                1,
+                251
+            ],
+            "Lance": [
+                true,
+                31,
+                251
+            ],
+            "Axe": [
+                false,
+                0,
+                251
+            ],
+            "Bow": [
+                false,
+                0,
+                251
+            ],
+            "Staff": [
+                false,
+                0,
+                251
+            ],
+            "Light": [
+                false,
+                0,
+                251
+            ],
+            "Anima": [
+                false,
+                0,
+                251
+            ],
+            "Dark": [
+                false,
+                0,
+                251
+            ],
+            "Default": [
+                false,
+                0,
+                251
+            ]
+        },
+        "icon_nid": "Generic_Portrait_Cavalier",
+        "icon_index": [
+            0,
+            0
+        ],
+        "map_sprite_nid": "Lance Cav",
+        "combat_anim_nid": "Cavalier Lance",
+        "fields": []
+    },
+    {
+        "nid": "DukeKnight",
+        "name": "Duke Knight",
+        "desc": "Mounted knights with superior movement.",
+        "tier": 1,
+        "movement_group": "Heavy Cav",
+        "promotes_from": null,
+        "turns_into": [
+            "Paladin",
+            "Great_Knight"
+        ],
+        "tags": [
+            "Horse",
+            "Mounted"
+        ],
+        "max_level": 20,
+        "bases": {
+            "HP": 20,
+            "STR": 5,
+            "MAG": 2,
+            "SKL": 3,
+            "SPD": 5,
+            "LCK": 0,
+            "DEF": 6,
+            "CON": 9,
+            "MOV": 7,
+            "RES": 0,
+            "PROCX": 0
+        },
+        "growths": {
+            "HP": 75,
+            "STR": 35,
+            "MAG": 17,
+            "SKL": 40,
+            "SPD": 28,
+            "LCK": 30,
+            "DEF": 15,
+            "CON": 0,
+            "MOV": 0,
+            "RES": 15,
+            "PROCX": 0
+        },
+        "growth_bonus": {
+            "HP": 0,
+            "STR": 0,
+            "MAG": 0,
+            "SKL": 0,
+            "SPD": 0,
+            "LCK": 0,
+            "DEF": 0,
+            "CON": 0,
+            "MOV": 0,
+            "RES": 0,
+            "PROCX": 0
+        },
+        "promotion": {
+            "HP": 0,
+            "STR": 0,
+            "MAG": 0,
+            "SKL": 0,
+            "SPD": 0,
+            "LCK": 0,
+            "DEF": 0,
+            "CON": 0,
+            "MOV": 0,
+            "RES": 0,
+            "PROCX": 0
+        },
+        "max_stats": {
+            "HP": 60,
+            "STR": 20,
+            "MAG": 20,
+            "SKL": 20,
+            "SPD": 20,
+            "LCK": 30,
+            "DEF": 20,
+            "CON": 25,
+            "MOV": 15,
+            "RES": 20,
+            "PROCX": 30
+        },
+        "learned_skills": [
+            [
+                1,
+                "Canto"
+            ]
+        ],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                1,
+                251
+            ],
+            "Lance": [
+                true,
+                31,
+                251
+            ],
+            "Axe": [
+                false,
+                0,
+                251
+            ],
+            "Bow": [
+                false,
+                0,
+                251
+            ],
+            "Staff": [
+                false,
+                0,
+                251
+            ],
+            "Light": [
+                false,
+                0,
+                251
+            ],
+            "Anima": [
+                false,
+                0,
+                251
+            ],
+            "Dark": [
+                false,
+                0,
+                251
+            ],
+            "Default": [
+                false,
+                0,
+                251
+            ]
+        },
+        "icon_nid": "Duke Knight",
+        "icon_index": [
+            0,
+            0
+        ],
+        "map_sprite_nid": "Duke Knight",
+        "combat_anim_nid": "Duke Knight",
         "fields": []
     }
 ]

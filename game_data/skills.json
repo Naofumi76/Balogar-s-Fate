@@ -5,8 +5,8 @@
         "desc": "Can move again after certain actions.",
         "icon_nid": "Skills",
         "icon_index": [
-            1,
-            4
+            3,
+            11
         ],
         "components": [
             [
@@ -1157,8 +1157,8 @@
         "desc": "",
         "icon_nid": "Skills",
         "icon_index": [
-            10,
-            10
+            2,
+            11
         ],
         "components": [
             [
@@ -1169,6 +1169,26 @@
                         10
                     ]
                 ]
+            ]
+        ]
+    },
+    {
+        "nid": "CantoPlus",
+        "name": "Canto+",
+        "desc": "User may move even after attacking.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            4,
+            11
+        ],
+        "components": [
+            [
+                "class_skill",
+                null
+            ],
+            [
+                "canto_plus",
+                null
             ]
         ]
     }
