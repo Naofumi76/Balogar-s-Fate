@@ -157,47 +157,47 @@
     },
     {
         "nid": "STR_desc",
-        "text": "Strength. The higher the number, the more damage you inflict."
+        "text": "Force. Plus le chiffre est \u00e9lev\u00e9, plus vos d\u00e9g\u00e2ts physiques augmentent."
     },
     {
         "nid": "MAG_desc",
-        "text": "Magical power. Increases ward and spell damage."
+        "text": "Magie. Augmente l'efficacit\u00e9 des sorts et b\u00e2tons."
     },
     {
         "nid": "SKL_desc",
-        "text": "Fighting skill. A higher number improves accuracy."
+        "text": "Technique. Plus le chiffre est \u00e9lev\u00e9, plus la pr\u00e9cision augmente."
     },
     {
         "nid": "SPD_desc",
-        "text": "This affects both evasion and attack speed."
+        "text": "Affecte l'esquive et la vitesse d'attaque."
     },
     {
         "nid": "DEF_desc",
-        "text": "Reduces damage from weapons."
+        "text": "R\u00e9duit les d\u00e9g\u00e2ts physiques re\u00e7us."
     },
     {
         "nid": "RES_desc",
-        "text": "Reduces damage from magical attacks."
+        "text": "R\u00e9duit les d\u00e9g\u00e2ts magiques re\u00e7us."
     },
     {
         "nid": "LCK_desc",
-        "text": "Luck affects accuracy and avoid."
+        "text": "La chance affecte beaucoup de choses."
     },
     {
         "nid": "MOV_desc",
-        "text": "The distance you can cross in one turn."
+        "text": "La distance traversable en un seul tour."
     },
     {
         "nid": "CON_desc",
-        "text": "Constitution. Affects how well the unit can wield heavier weapons."
+        "text": "Constitution. Affecte la capacit\u00e9 de l'unit\u00e9 \u00e0 manier des armes lourdes."
     },
     {
         "nid": "Aid_desc",
-        "text": "Max rescuing constitution. Units with greater Con cannot be rescued."
+        "text": "Constitution max secourable. Permet de porter secours aux unit\u00e9s ayant une constitution plus faible."
     },
     {
         "nid": "Trv_desc",
-        "text": "Who is this unit rescuing?"
+        "text": "L'unit\u00e9 dont le personnage porte actuellement secours."
     },
     {
         "nid": "Affin_desc",
@@ -213,23 +213,23 @@
     },
     {
         "nid": "Ftg_desc",
-        "text": "Fatigue. A unit whose fatigue exceeds its limit cannot be deployed."
+        "text": "Fatigue. Une unit\u00e9 dont la fatigue a d\u00e9pass\u00e9 sa limite ne peut pas \u00eatre d\u00e9ploy\u00e9e."
     },
     {
         "nid": "Atk_desc",
-        "text": "Amount of damage this weapon causes. Affected by defenses."
+        "text": "D\u00e9g\u00e2ts inflig\u00e9s avec cette arme. Affect\u00e9 par la d\u00e9fense de l'ennemi."
     },
     {
         "nid": "Hit_desc",
-        "text": "Chance that the attack will hit. Affected by terrain and enemies."
+        "text": "Chance que l'attaque touche l'ennemi. Affect\u00e9 par le terrain et l'esquive de l'ennemi."
     },
     {
         "nid": "Rng_desc",
-        "text": "Weapon Range. A range of 1 can only hit adjacent spaces."
+        "text": "Distance d'attaque. Une distance de 1 n'attaque que les ennemis adjacents."
     },
     {
         "nid": "Avoid_desc",
-        "text": "Ability to dodge enemy attacks. Affects enemy's accuracy."
+        "text": "Abilit\u00e9 \u00e0 esquiver les attaques. Affecte la pr\u00e9cision de l'ennemi."
     },
     {
         "nid": "AS_desc",
@@ -237,19 +237,19 @@
     },
     {
         "nid": "Crit_desc",
-        "text": "Chance the weapon will strike a critical blow, dealing extra damage."
+        "text": "Chance de coup critique. Un coup critique inflige 3 fois plus de d\u00e9g\u00e2ts."
     },
     {
         "nid": "Level_desc",
-        "text": "Unit level. How experienced a unit is."
+        "text": "Niveau. L'unit\u00e9 devient plus forte en gagnant des niveaux."
     },
     {
         "nid": "Exp_desc",
-        "text": "Experience points gained. Gain 100 points to earn a new level."
+        "text": "Points d'exp\u00e9rience. Obtenez 100 points pour augmenter de niveau."
     },
     {
         "nid": "HP_desc",
-        "text": "Hit points. The unit is removed from the battle if HP reaches 0."
+        "text": "Points de vie. L'unit\u00e9 meurt si ses PVs atteignent 0."
     },
     {
         "nid": "armory_opener",
@@ -382,5 +382,13 @@
     {
         "nid": "Transfer_desc",
         "text": "Give paired unit to adjacent ally."
+    },
+    {
+        "nid": "MANA_desc",
+        "text": "Energie magique. Consomm\u00e9e pour utiliser des comp\u00e9tences."
+    },
+    {
+        "nid": "Rat_desc",
+        "text": "La distance traversable en un seul tour."
     }
 ]

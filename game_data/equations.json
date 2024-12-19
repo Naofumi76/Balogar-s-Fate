@@ -97,7 +97,7 @@
     },
     {
         "nid": "MANA",
-        "expression": "20"
+        "expression": "unit.get_internal_level()//2"
     },
     {
         "nid": "ZERO",

@@ -1,17 +1,17 @@
 [
     {
         "nid": "HP",
-        "name": "HP",
+        "name": "PV",
         "maximum": 60,
-        "desc": "Hit points. The unit is removed from the battle if HP reaches 0.",
+        "desc": "Points de vie. L'unit\u00e9 meurt si ses PVs atteignent 0.",
         "position": "hidden",
         "growth_colors": true
     },
     {
         "nid": "STR",
-        "name": "Str",
+        "name": "Frc",
         "maximum": 30,
-        "desc": "Strength. The higher the number, the more damage you inflict.",
+        "desc": "Force. Plus elle est \u00e9lev\u00e9e, plus vos d\u00e9g\u00e2ts physiques augmentent.",
         "position": "left",
         "growth_colors": true
     },
@@ -19,47 +19,47 @@
         "nid": "MAG",
         "name": "Mag",
         "maximum": 30,
-        "desc": "Magical power. Increases spell and staff effectiveness.",
+        "desc": "Magie. Augmente l'efficacit\u00e9 des sorts et b\u00e2tons.",
         "position": "left",
         "growth_colors": true
     },
     {
         "nid": "SKL",
-        "name": "Skill",
+        "name": "Tec",
         "maximum": 30,
-        "desc": "Fighting skill. A higher number improves accuracy.",
+        "desc": "Technique. Augmente la pr\u00e9cision et le taux de coup critique.",
         "position": "left",
         "growth_colors": true
     },
     {
         "nid": "SPD",
-        "name": "Spd",
+        "name": "Vit",
         "maximum": 30,
-        "desc": "This affects both evasion and attack speed.",
+        "desc": "Affecte l'esquive et le nombre d'attaques effectu\u00e9es.",
         "position": "left",
         "growth_colors": true
     },
     {
         "nid": "LCK",
-        "name": "Luck",
+        "name": "Cha",
         "maximum": 30,
-        "desc": "Luck affects many things.",
-        "position": "right",
+        "desc": "La chance affecte plusieurs choses \u00e0 la fois.",
+        "position": "left",
         "growth_colors": true
     },
     {
         "nid": "DEF",
-        "name": "Def",
+        "name": "D\u00e9f",
         "maximum": 30,
-        "desc": "Reduces damage from weapons.",
+        "desc": "R\u00e9duit les d\u00e9g\u00e2ts physiques re\u00e7us.",
         "position": "left",
         "growth_colors": true
     },
     {
         "nid": "RES",
-        "name": "Res",
+        "name": "R\u00e9s",
         "maximum": 30,
-        "desc": "Reduces damage from magic.",
+        "desc": "R\u00e9duit les d\u00e9g\u00e2ts magiques re\u00e7us.",
         "position": "left",
         "growth_colors": true
     },
@@ -67,15 +67,15 @@
         "nid": "CON",
         "name": "Con",
         "maximum": 25,
-        "desc": "Constitution. Affects how well the unit can wield heavier weapons.",
+        "desc": "Constitution. Affecte la capacit\u00e9 de l'unit\u00e9 \u00e0 manier des armes lourdes.",
         "position": "right",
         "growth_colors": false
     },
     {
         "nid": "MOV",
-        "name": "Move",
+        "name": "Mouv",
         "maximum": 15,
-        "desc": "The distance you can move in one turn.",
+        "desc": "La distance traversable en un seul tour.",
         "position": "right",
         "growth_colors": false
     },
@@ -84,7 +84,7 @@
         "name": "PROCX",
         "maximum": 30,
         "desc": "Increase Proc Rate",
-        "position": "right",
+        "position": "hidden",
         "growth_colors": false
     }
 ]

@@ -1150,12 +1150,12 @@
                 null
             ],
             [
-                "proc_rate",
-                "MAG_PROCX"
-            ],
-            [
                 "eval_damage",
                 "unit.get_stat('RES')"
+            ],
+            [
+                "condition",
+                "unit.get_stat('"
             ]
         ]
     },
