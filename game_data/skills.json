@@ -1246,6 +1246,22 @@
         ]
     },
     {
+        "nid": "LunaEffect",
+        "name": "Luna",
+        "desc": "Negates enemy defenses.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            3,
+            4
+        ],
+        "components": [
+            [
+                "item_override",
+                "Luna_Override"
+            ]
+        ]
+    },
+    {
         "nid": "Luna",
         "name": "Luna",
         "desc": "Negates enemy defenses.",
@@ -1260,8 +1276,12 @@
                 null
             ],
             [
-                "dynamic_damage",
-                "target.get_stat('RES') if item_system.weapon_type(unit, unit.get_weapon()) in ('Light', 'Anima', 'Dark', 'Staff') else target.get_stat('DEF')"
+                "attack_proc",
+                "LunaEffect"
+            ],
+            [
+                "proc_rate",
+                "MAG_PROCX"
             ]
         ]
     }
