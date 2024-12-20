@@ -2,7 +2,7 @@
     {
         "nid": "Canto",
         "name": "Canto",
-        "desc": "Can move again after certain actions.",
+        "desc": "L'unit\u00e9 peut continuer son d\u00e9placement apr\u00e8s certaines actions.",
         "icon_nid": "Skills",
         "icon_index": [
             3,
@@ -1118,7 +1118,7 @@
     {
         "nid": "Hawkeye",
         "name": "Hawkeye",
-        "desc": "Unit's attacks never misses.",
+        "desc": "L'unit\u00e9 ne rate jamais ses attaques.",
         "icon_nid": "Skills",
         "icon_index": [
             0,
@@ -1138,7 +1138,7 @@
     {
         "nid": "Glacies",
         "name": "Glacies",
-        "desc": "MAG% chance to add RES as damage.",
+        "desc": "Mag en % de chance d'ajouter la R\u00e9s en d\u00e9g\u00e2ts bonus",
         "icon_nid": "Skills",
         "icon_index": [
             1,
@@ -1162,7 +1162,7 @@
     {
         "nid": "Rightful_Lord",
         "name": "Rightful Lord",
-        "desc": "",
+        "desc": "Donnes +10% d'activation des comp\u00e9tences.",
         "icon_nid": "Skills",
         "icon_index": [
             2,
@@ -1187,7 +1187,7 @@
     {
         "nid": "Rightful_God",
         "name": "Rightful God",
-        "desc": "Gives +100% activations rates to skills.",
+        "desc": "Donnes +100% d'activation des comp\u00e9tences.",
         "icon_nid": "Skills",
         "icon_index": [
             2,
@@ -1208,7 +1208,7 @@
     {
         "nid": "CantoPlus",
         "name": "Canto+",
-        "desc": "User may move even after attacking.",
+        "desc": "L'unit\u00e9 peut continuer son d\u00e9placement m\u00eame apr\u00e8s avoir attaqu\u00e9.",
         "icon_nid": "Skills",
         "icon_index": [
             4,
@@ -1228,7 +1228,7 @@
     {
         "nid": "Bloodlust",
         "name": "Bloodlust",
-        "desc": "Deal +1 DMG for every 4 HP lost.",
+        "desc": "Inflige +1 DGM tous les 4 PVs perdus.",
         "icon_nid": "Skills",
         "icon_index": [
             2,
@@ -1248,11 +1248,11 @@
     {
         "nid": "LunaEffect",
         "name": "Luna",
-        "desc": "Negates enemy defenses.",
+        "desc": "Annules les d\u00e9fenses ennemi.",
         "icon_nid": "Skills",
         "icon_index": [
-            3,
-            4
+            4,
+            3
         ],
         "components": [
             [
@@ -1264,11 +1264,11 @@
     {
         "nid": "Luna",
         "name": "Luna",
-        "desc": "Negates enemy defenses.",
+        "desc": "Annules les d\u00e9fenses ennemi.",
         "icon_nid": "Skills",
         "icon_index": [
-            3,
-            4
+            4,
+            3
         ],
         "components": [
             [
